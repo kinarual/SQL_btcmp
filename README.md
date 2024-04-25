@@ -15,3 +15,9 @@ Set of project to develop SQL skills
 
 > [!IMPORTANT]
 > Please download a script with Database Model (model.sql) and apply the script to your database. If you are watching Directories > 03, then you need to run queries from Directory03 (sctripts 07-13) as there are changes to initial Database.
+
+## Queries from rushed DB
+Getting to know what DWH is and how to create a first ETL process
+
+> [!IMPORTANT]
+Please download a script with Database Model (rush01_model.sql) and apply the script to your database. Anomalies in source tables are intentional for training purposes. All tables in the DWH inherit all anomalies from the source tables (Tables are not in data consistency + Possible NULL values for Name and Lastname in the User table and etc.)
